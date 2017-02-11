@@ -6,3 +6,8 @@
 .navElement {
 	display: inline-block;
 }
+
+.songSelector {
+	background-color: #4DD7FA;
+	border: 2px solid;
+}

@@ -17,5 +17,58 @@
 			<li class = "navElement"><a href = "#">Profile</a></li>
 		</ul>
 	</nav>
+	<!-- Create song control panel, side bar -->
+	<div>
+		<form class = "songSelector">
+			<label for = "songLength">Song length:</label>
+			<br>
+			<input id = "songLength" type = "range">
+			<br>
+			<label for = "artist">Artist:</label>
+			<br>
+			<!-- Create artist dropdown -->
+			<select id = "artist" name = "artist">
+				<option value = "options">Options</option>
+				<option value = "artist1">Artist1</option>
+				<option value = "artist2">Artist2</option>
+				<option value = "artist3">Artist3</option>
+				<option value = "artist4">Artist4</option>
+				<option value = "artist5">Artist5</option>
+			</select>
+			<br>
+			<br>
+			<!-- Create album dropdown -->
+			<label for = "album">Album:</label>
+			<br>
+			<select id = "album" name = "album">
+				<option value = "options">Options</option>
+				<option value = "a1AlbumA">A1AlbumA</option>
+				<option value = "a1AlbumB">A1AlbumB</option>
+				<option value = "a2AlbumA">A2AlbumA</option>
+				<option value = "a2AlbumB">A2AlbumB</option>
+				<option value = "a3AlbumA">A3AlbumA</option>
+				<option value = "a3AlbumB">A3AlbumB</option>
+				<option value = "a4AlbumA">A4AlbumA</option>
+				<option value = "a4AlbumB">A4AlbumB</option>
+				<option value = "a5AlbumA">A5AlbumA</option>
+				<option value = "a5AlbumB">A5AlbumB</option>
+			</select>
+			<br>
+			<br>
+			<label for = "genre">Genre:</label>
+			<br>
+			<label for = "genre1"><input type = "checkbox" id = "genre1" value = "genre1"> Genre1</label>
+			<label for = "genre2"><input type = "checkbox" id = "genre2" value = "genre2"> Genre2</label>
+			<br>
+			<label for = "genre3"><input type = "checkbox" id = "genre3" value = "genre3"> Genre3</label>
+			<label for = "genre4"><input type = "checkbox" id = "genre4" value = "genre4"> Genre4</label>
+			<br>
+			<label for = "genre5"><input type = "checkbox" id = "genre5" value = "genre5"> Genre5</label>
+			<label for = "genre6"><input type = "checkbox" id = "genre6" value = "genre6"> Genre6</label>
+			<br>
+			<br>
+			<button type = "button"> Filter</button>
+		</form>
+	</div>
 </body>
 </html>
