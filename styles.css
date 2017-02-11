@@ -1,0 +1,8 @@
+.navBar {
+	background-color: #FFB4B0;
+	border: 2px solid;
+}
+
+.navElement {
+	display: inline-block;
+}
