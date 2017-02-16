@@ -1,6 +1,15 @@
+.container {
+	display: inline-flex;
+	flex-wrap: wrap;
+	width: 100%;
+
+}
+
 .navBar {
 	background-color: #FFB4B0;
 	border: 2px solid;
+	width: 100%;
+	margin: 10px;
 }
 
 .navElement {
@@ -10,4 +19,26 @@
 .songSelector {
 	background-color: #4DD7FA;
 	border: 2px solid;
+	width: 24%;
+	margin: 10px;
+}
+
+.songInfo {
+	display: inline-block;
+}
+
+h3 {
+	color: #785616;
+}
+
+.playlist {
+	background-color: #FEFAC0;
+	border: 2px solid;
+	width: 74%;
+	margin: 10px;
+}
+.player {
+	display: inline-flex;
+	width: 100%;
+	justify-content: space-between;
 }
