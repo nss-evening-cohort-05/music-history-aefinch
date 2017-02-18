@@ -1,0 +1,106 @@
+.container {
+	display: inline-flex;
+	flex-wrap: wrap;
+	width: 100%;
+	font-family: sans-serif;
+
+}
+
+.navBar {
+	background-color: #FFB4B0;
+	border: 2px solid;
+	width: 100%;
+	margin: 10px;
+}
+
+.navElement {
+	display: inline-block;
+}
+
+.navList {
+	padding-left: 20px;
+}
+
+.songSelector {
+	background-color: #4DD7FA;
+	border: 2px solid;
+	width: 24%;
+	margin: 10px;
+	padding: 10px;
+}
+
+.cbox {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+.genre {
+	width: 45%;
+}
+
+.songInfo {
+	display: inline-block;
+}
+
+h3 {
+	color: #785616;
+	padding-left: 40px;
+}
+
+.playlist {
+	background-color: #FEFAC0;
+	border: 2px solid;
+	width: 74%;
+	margin: 10px;
+}
+.player {
+	display: inline-flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.newSong {
+	display: inline-flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.addSongName {
+	width: 100%;
+	text-align: center;
+	margin: 50px 5px 5px 5px;
+}
+
+#name {
+	margin-left: 5px;
+}
+
+.addArtist {
+	width: 100%;
+	text-align: center;
+	margin: 5px;
+}
+
+#newArtist {
+	margin-left: 43px;
+}
+
+.addAlbum {
+	width: 100%;
+	text-align: center;
+	margin: 5px;
+}
+
+#newAlbum {
+	margin-left: 37px;
+}
+
+.addButton {
+	width: 100%;
+	text-align: center;
+	margin: 5px 50px 5px 0;
+}
+
+li {
+	margin: 5px;
+}
