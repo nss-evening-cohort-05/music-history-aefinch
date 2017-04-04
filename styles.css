@@ -104,3 +104,8 @@ h3 {
 li {
 	margin: 5px;
 }
+
+.songButton {
+	width: inherit;
+	align-content: right;
+}

@@ -1,0 +1,44 @@
+{"songs": [
+	{
+		"songName":"Legs",
+		"artistName":"ZZ Top",
+		"albumName": "Eliminator",
+		"genre": "rock"
+	},
+	{
+		"songName":"The Logical Song",
+		"artistName":"Super Tramp",
+		"albumName": "Breakfast in America",
+		"genre": "classic rock"
+	},
+	{
+		"songName":"Another Brick in the Wall",
+		"artistName":"Pink Floyd",
+		"albumName": "The Wall",
+		"genre": "rock"
+	},
+	{
+		"songName":"Welcome to the Jungle",
+		"artistName":"Guns & Roses",
+		"albumName": "Appetite for Destruction",
+		"genre": "rock"
+	},
+	{
+		"songName":"Ironic",
+		"artistName":"Alanis Morisette",
+		"albumName": "Jagged Little Pill",
+		"genre": "indie"
+	},
+	{
+		"songName":"Standing Outside the Fire",
+		"artistName":"Garth Brooks",
+		"albumName": "In Pieces",
+		"genre": "country"
+	},
+	{
+		"songName":"I Won't Give Up",
+		"artistName":"Jason Mraz",
+		"albumName": "Love is a Four Letter Word",
+		"genre": "pop-rock"
+	}	
+]}
