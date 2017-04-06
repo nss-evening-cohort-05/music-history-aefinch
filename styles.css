@@ -105,7 +105,6 @@ li {
 	margin: 5px;
 }
 
-.songButton {
-	width: inherit;
-	align-content: right;
+#more {
+	margin:20px;
 }
